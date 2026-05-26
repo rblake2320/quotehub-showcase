@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 
 const navLinks = [
   { label: "Product", href: "#product" },
+  { label: "Creator Brands", href: "#creator-brands" },
   { label: "Competition", href: "#competition" },
   { label: "Tech Stack", href: "#tech" },
   { label: "For Creators", href: "#creators" },

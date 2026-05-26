@@ -3,6 +3,7 @@
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import ProductSection from "@/components/ProductSection";
+import CreatorShowcase from "@/components/CreatorShowcase";
 import CompetitionSection from "@/components/CompetitionSection";
 import TechSection from "@/components/TechSection";
 import CreatorSection from "@/components/CreatorSection";
@@ -15,6 +16,7 @@ export default function Home() {
     <div className="min-h-screen" style={{ background: "#080C14" }}>
       <Navbar />
       <HeroSection />
+      <CreatorShowcase />
       <ProductSection />
       <CompetitionSection />
       <TechSection />
