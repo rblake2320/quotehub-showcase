@@ -8,6 +8,7 @@ import CompetitionSection from "@/components/CompetitionSection";
 import TechSection from "@/components/TechSection";
 import CreatorSection from "@/components/CreatorSection";
 import ResilienceSection from "@/components/ResilienceSection";
+import TrustSection from "@/components/TrustSection";
 import PricingSection from "@/components/PricingSection";
 import Footer from "@/components/Footer";
 
@@ -21,6 +22,7 @@ export default function Home() {
       <CompetitionSection />
       <TechSection />
       <ResilienceSection />
+      <TrustSection />
       <CreatorSection />
       <PricingSection />
       <Footer />

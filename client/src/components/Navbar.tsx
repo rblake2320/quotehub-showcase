@@ -8,6 +8,7 @@ const navLinks = [
   { label: "Competition", href: "#competition" },
   { label: "Tech Stack", href: "#tech" },
   { label: "For Creators", href: "#creators" },
+  { label: "Trust & IP", href: "#trust" },
   { label: "Pricing", href: "#pricing" },
 ];
 
