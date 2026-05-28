@@ -17,7 +17,7 @@ Not a product. Not an app. A division of Beast Industries staffed by the best AI
 
 Jensen Huang has NVIDIA. Sam Altman has OpenAI. Elon has xAI.
 
-**MrBeast has BeastAI.** And unlike all of them, he has 460 million people watching.
+**MrBeast has BeastAI.** And unlike all of them, he has 492 million people watching.
 
 ---
 
@@ -44,12 +44,12 @@ The machine that no startup can afford. Life-changing. Company-building. Unforge
 
 ## The Sponsors — Fully Funded Before MrBeast Spends a Dollar
 
-Every major AI company needs to be in this room. A MrBeast video with 300M views is the most efficient marketing spend that exists. None of them can afford to not be here.
+Every major AI company needs to be in this room. A MrBeast video with 350M+ views is the most efficient marketing spend that exists. None of them can afford to not be here.
 
 | Sponsor | Why They Say Yes | Estimated Value |
 |---|---|---|
 | **NVIDIA** | Vera Rubin prize = the ultimate product demo. Jensen Huang hands the machine to the winner on camera. | $15M + hardware |
-| **OpenAI** | 300M views. Sam Altman speaks. Their logo on the biggest creator event in history. | $15M |
+| **OpenAI** | 350M+ views. Sam Altman speaks. Their logo on the biggest creator event in history. | $15M |
 | **Anthropic** | Cannot let OpenAI be there without them. Dario Amodei on stage. | $10M |
 | **Google DeepMind** | Same logic. Demis Hassabis or Sundar Pichai. | $15M |
 | **xAI / Grok** | Elon shows up or he doesn't — either way the brand is there. | $10M |
@@ -59,7 +59,7 @@ Every major AI company needs to be in this room. A MrBeast video with 300M views
 **Production + prize pool + venue: ~$17M**
 **Net to Beast Industries before the video drops: ~$51M**
 
-Then the video drops. 300M views. Another $3–5M in ad revenue.
+Then the video drops. 350M+ views. Another $3–5M in ad revenue.
 
 ---
 
@@ -133,7 +133,7 @@ One hackathon challenge track: **"Build the future of creator-fan connection."**
 
 QuoteHub is the problem statement. Teams compete to build features — mood delivery, family wellness tracking, voice audio, subscription mechanics. The best ideas get integrated. Beast Industries takes a founding partner stake in QuoteHub as part of the arrangement.
 
-MrBeast promotes QuoteHub during the event to 300M people. QuoteHub processes subscriptions through MrBeast Financial (Step). Creator payouts flow through the same rails.
+MrBeast promotes QuoteHub during the event to 492M subscribers. QuoteHub processes subscriptions through MrBeast Financial (Step). Creator payouts flow through the same rails.
 
 The hackathon that launches BeastAI simultaneously launches QuoteHub to the largest possible audience at zero additional marketing cost.
 
@@ -162,7 +162,7 @@ The hackathon that launches BeastAI simultaneously launches QuoteHub to the larg
 
 No major creator has launched an AI division this way.
 No hackathon has had this prize pool.
-No event has had Jensen Huang, Sam Altman, Dario Amodei, and Lucy Guo in the same room with 300M people watching.
+No event has had Jensen Huang, Sam Altman, Dario Amodei, and Lucy Guo in the same room with 492M subscribers watching.
 
 The AI companies want distribution. MrBeast has the best distribution on earth.
 MrBeast wants an AI team, compute, and a world record. The AI companies pay for all of it.
