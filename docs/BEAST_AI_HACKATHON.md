@@ -352,6 +352,107 @@ Everyone wins. The cameras roll the whole time.
 
 ---
 
+
+---
+
+## The BeastAI Olympics — The Permanent Global Franchise
+
+The first hackathon is the proof of concept. What comes after is a franchise.
+
+Walt Disney built Disneyland after Snow White proved the model worked. The BeastAI Hackathon proves the model. The BeastAI Olympics is Disneyland.
+
+### The Scale Progression
+
+```
+YEAR 1 — The BeastAI Hackathon (single location, USA)
+  World record prize. BeastAI launches. Subscriber milestone.
+  492M+ witness it. Every country sees their people compete.
+  The world asks: "When is the next one?"
+
+YEAR 2 — BeastAI Olympics, Season 1
+  Regional qualifying events on every continent
+  Countries send national teams
+  Multiple disciplines — code, robots, creative, humanitarian AI
+  Host city selected by bid (like the real Olympics)
+  Broadcast rights sold to every major market globally
+
+YEAR 3+ — The franchise runs itself
+  Qualifying rounds create content 11 months a year
+  The main event is the Super Bowl of AI
+  Host cities compete for the economic impact of hosting
+  Every cycle is larger than the last
+```
+
+### The Disciplines
+
+| Event | Format | Why People Watch |
+|---|---|---|
+| **AI Software** | Best tool built in 72 hours | The original. Pure creation. |
+| **AI Robotics** | Physical robots competing in real-world challenges | People stop everything to watch robots compete |
+| **AI Creative** | Music, film, visual art — generated and judged live | Emotional, accessible, endlessly shareable |
+| **AI for Good** | Best AI solving a real humanitarian problem | The moment world leaders pay attention |
+| **AI Speed** | Fastest model fine-tuned on a live dataset | Technical drama with a clock |
+| **AI vs. Human** | AI team vs. human expert, same problem, same time | The most-watched event of the entire Olympics |
+
+The robotics category alone becomes its own franchise. Boston Dynamics, Figure AI, Agility Robotics, Tesla Optimus — every humanoid robot company wants their machine on that floor. That is a category of television that does not yet exist. MrBeast creates it.
+
+### Why Countries Compete
+
+The moment this is country vs. country, national governments activate.
+
+South Korea, Japan, China, Germany, Israel, India, the UAE, the US — every nation with a serious AI program wants to win. That means:
+
+- **Government sponsorships** on top of corporate sponsors
+- **National broadcast deals** in every country — rights revenue Beast Industries has never had before
+- **Political leaders** associate themselves with winning — the winning country's president or prime minister shows up
+- **Education pipeline** — schools worldwide start AI programs to develop future competitors. BeastAI Olympics changes what children study.
+
+The IOC generates $7–8 billion per Olympic cycle.
+The FIFA World Cup generates $6 billion per tournament.
+**BeastAI Olympics is the first new recurring global franchise in a generation** — and the "sport" is the most consequential technology in human history.
+
+### The Format Options
+
+**Option A — One Massive Global Event**
+Single location. Every country travels to compete. Maximum spectacle. One week. Filmed entirely. The world watches one place at one time.
+
+**Option B — Qualifying + Finals (True Olympic Model)**
+Regional qualifying events run globally for 6 months — creating content in every timezone, every language, every culture. The best from each region advance to the championship. 11 months of content pipeline feeding one climactic event.
+
+**Option C — Simultaneous Global Locations**
+Multiple cities host simultaneously. Tokyo runs the robotics discipline. Berlin runs AI for Good. São Paulo runs AI Creative. New York runs the finale. All connected live. Every timezone has a reason to watch in their prime time.
+
+Beast Industries decides the format. All three generate franchise-level revenue.
+
+### The Global Broadcast Rights
+
+The Olympics sells broadcast rights country by country. BeastAI Olympics does the same — except the audience skews younger and more digitally native than any traditional sports property.
+
+| Market | Likely Buyer | Revenue Potential |
+|---|---|---|
+| USA | Netflix, Amazon, or YouTube Premium | $50–100M/cycle |
+| Europe | Sky, BBC, or streaming equivalent | $30–60M/cycle |
+| Asia | Multiple national deals | $40–80M/cycle |
+| Global streaming | MrBeast's own channel as anchor | Ad revenue on top |
+
+Broadcast rights alone fund the next cycle. The sponsor revenue is profit.
+
+### The Recurring Revenue Machine
+
+```
+Cycle 1: Sponsors fund it. Content generates ad revenue. Rights deals close.
+Cycle 2: Sponsors pay more (proven reach). Rights deals are larger. Host city pays to host.
+Cycle 3: It is an institution. Governments budget for it. The brand is permanent.
+```
+
+This is not an event business. This is a sports league business — with better content, a younger audience, and a subject matter that every government, every corporation, and every educational institution on earth cares about.
+
+### One Line
+
+Walt Disney built Disneyland after Snow White.
+MrBeast runs the hackathon. Then he builds the BeastAI Olympics.
+And he owns the format forever.
+
 ## The Ask
 
 Not a job application.
