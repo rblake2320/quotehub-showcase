@@ -114,6 +114,55 @@ Net hardware cost to Beast Industries: $0.
 
 ---
 
+
+---
+
+## The Subscriber Milestone Challenge — The Viral Engine Inside the Event
+
+Running simultaneously with the hackathon: the race to 500M — and beyond.
+
+### The Mechanic
+- MrBeast announces the challenge the week before the event: **"Help us hit 500M subscribers before the live finale and one random person who shared wins $500,000 in cash — announced live."**
+- Every person who shares the event gets entered
+- At 600M: the prize scales to **$600,000** — $1 per subscriber
+- The winner is pulled live on stage at the finale, their profile shown on screen, called on the phone, money wired in real time
+
+### Why This Is Unstoppable
+Every viewer becomes a recruiter. You cannot win without sharing. Sharing brings new subscribers. New subscribers grow the count. The bigger the count grows, the bigger the prize. The bigger the prize, the more people share.
+
+It is a self-accelerating loop with no ceiling.
+
+### The Subscriber Arc
+```
+Current:       492M  ←  today
+Goal 1:        500M  →  $500,000 winner, live on stage
+Stretch goal:  600M  →  $600,000 winner, live on stage
+                         + first creator in YouTube history
+                           to hit 600M during a live event
+```
+
+**8 million subscribers to 500M is achievable in the week before an event of this scale.**
+600M during the live event would be the largest subscriber count in YouTube history — happening live, on camera, with the world watching.
+
+The moment the counter ticks to 600,000,000 on a live stream is a news story every outlet covers independently. CNN. BBC. Every tech publication. Every creator on earth clips it. It lives forever.
+
+### The Live Finale Sequence
+1. Hackathon winner announced — Vera Rubin handed over
+2. BeastAI team revealed — the 6–10 people hired
+3. Subscriber counter shown live — has the milestone been hit?
+4. Random winner profile pulled on screen — chat explodes
+5. Winner called live — answers the phone
+6. $500K or $600K wired in real time, on camera
+
+That is the single most watchable finale in live streaming history.
+
+### What This Does for the Whole Event
+- Drives millions of new subscribers in the days before the hackathon begins
+- Guarantees every viewer watches the entire show (can't win if you leave)
+- Creates a second news cycle: "Will MrBeast hit 500M before the show ends?"
+- The milestone itself becomes a world record if 600M is reached
+- Every AI company sponsor gets their logo in front of those new subscribers permanently
+
 ## The Spin-Off — "Beast Labs: Year One"
 
 The hackathon is Episode 1. Then the cameras don't stop.
