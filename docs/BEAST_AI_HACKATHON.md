@@ -188,6 +188,138 @@ The hackathon that launches BeastAI simultaneously launches QuoteHub to the larg
 
 ---
 
+
+---
+
+## The Walt Disney Business Model
+
+Walt Disney did not build a movie studio. He built an ecosystem where every piece fed every other piece.
+
+Movies created characters. Characters filled theme parks. Parks sold merchandise. Merchandise funded movies. No single revenue stream — a machine where the output of one becomes the input of the next. Larger every cycle.
+
+BeastAI is that model for the AI era — with 492 million people watching instead of a theater audience.
+
+```
+Hackathon content
+    → audience grows → sponsor value increases
+    → BeastAI team assembled → products built
+    → Beast Labs series → licensing deal
+    → QuoteHub launches → daily subscription revenue
+    → MrBeast Financial → processes every transaction
+    → more products built → more content made
+    → bigger audience → back to the top, larger every cycle
+```
+
+Disney never had 492 million people. He didn't have AI.
+MrBeast has both. The model is the same. The scale is without precedent.
+
+---
+
+## The Hackathon Format — Non-Stop Filming
+
+The hackathon is not an event with a highlight reel. **It is the content.**
+
+72 hours. Cameras never stop. Multiple teams, multiple storylines, real stakes.
+
+The drama that makes great content doesn't happen on stage. It happens at 3am when someone's model breaks and they have four hours to fix it. It happens when two team members disagree on the approach. It happens when a team from a country nobody expected is suddenly in first place.
+
+**The structure:**
+
+```
+BEFORE THE EVENT
+  ├── Subscriber challenge launches ("help us hit 500M")
+  ├── Team applications go public — the world watches who enters
+  └── Hype builds — AI companies tease their involvement
+
+HOUR 0  — Live opening. MrBeast announces everything.
+           Speakers set the stage. Subscriber count shown live.
+           Cameras spread to every team. 72-hour clock starts.
+
+HOURS 1–24  — Deep build. First storylines emerge.
+              Who has the best idea? Who's already behind?
+
+HOUR 24  — First break challenge (see below)
+           Mini-prize. Sponsored. Voted on by live audience.
+
+HOURS 24–48 — Midpoint drama. Teams pivot. Some fall apart.
+               Some surprises emerge from unexpected teams.
+
+HOUR 48  — Second break challenge
+           Public votes for favorite concept so far — $50K prize
+
+HOURS 48–72 — Final sprint. The all-nighters. The finishes.
+               The moments that go viral on their own.
+
+HOUR 72  — LIVE FINALE (announced date, appointment viewing)
+  ├── Demos to the panel
+  ├── Hackathon winner announced — Vera Rubin handed over
+  ├── Subscriber counter shown — has 500M been hit?
+  ├── Random winner called live — $500K or $600K wired
+  ├── Job offers announced — see below
+  └── BeastAI officially launched
+```
+
+The finale date is announced from day one. People clear their calendars. The whole 72 hours is the buildup. Nobody misses the ending.
+
+---
+
+## Break Challenges — Content + Revenue Inside the Event
+
+Every break is a sponsored content moment AND a chance for teams to earn outside the main prize.
+
+**Examples:**
+
+| Challenge | Prize | Sponsor |
+|---|---|---|
+| First team to deploy a working API endpoint | $10,000 | Perplexity |
+| Most creative use of [sponsor's AI tool] | $25,000 | OpenAI / Anthropic |
+| Audience votes best 24-hour demo | $50,000 | NVIDIA |
+| Fastest model fine-tune on live dataset | $15,000 | Google DeepMind |
+| Best solo contributor moment (fan-voted clip) | $10,000 | Vyro |
+
+These challenges do three things:
+1. Keep energy high during a 72-hour grind
+2. Give struggling teams a second chance to win something
+3. Give each sponsor an independent content moment with their name attached
+
+Every break challenge is a clip. Every clip is shared. The event keeps generating content while the build is happening.
+
+---
+
+## The Hiring Strategy — Beyond the Winners
+
+The job offers are not only for the winning team. That would be a waste of the best talent-scouting event ever designed.
+
+**What 72 hours of unfiltered filming actually shows you:**
+
+- Who leads when things break
+- Who communicates clearly under pressure
+- Who finds the unconventional solution
+- Who lifts their teammates vs. who folds
+- Who is still sharp at hour 68
+
+None of that shows up on a resume. All of it shows up on camera.
+
+**The approach:**
+
+The BeastAI team watches every team throughout the 72 hours — not just the leaderboard. Standouts are flagged in real time. Not "this team is winning" but "this specific person just did something remarkable."
+
+At the finale, job offers go to:
+
+| Who | Why |
+|---|---|
+| Winning team members (if they want it) | They built the best thing |
+| Best problem-solver from any team | Doesn't matter if they won |
+| Best communicator / team leader | The person who made others better |
+| Most creative solution (even if unfinished) | Vision matters as much as execution |
+| The unexpected standout | The person nobody saw coming |
+
+**6–10 offers total. Across multiple teams.**
+
+The moment is filmed. Offer letters handed out on stage at the finale. Some people cry. Some are shocked. All of it is content. All of it is real.
+
+And every person in every team who did not get hired goes back to the world knowing they competed at the highest level — and tells that story forever. That is BeastAI's talent brand, built in one weekend.
+
 ## The Complete ROI Stack
 
 | Timeline | Revenue / Savings |
