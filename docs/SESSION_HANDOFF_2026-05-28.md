@@ -55,6 +55,9 @@ Goal: 20 minutes with Jimmy Donaldson directly.
 
 ---
 
+## ⚠️ LinkedIn Messages — DO NOT REWRITE. USE EXACTLY AS WRITTEN BELOW.
+These messages are final and approved. Copy them verbatim. Never regenerate from scratch.
+
 ## LinkedIn Message to Send John Xu (FINAL — send this):
 
 "Hey John, saw your post about the role you're hiring for — I'm not applying, but what you described is exactly why I'm reaching out. You said you care more about how someone thinks than where they've worked. Fair enough — so let me show you. I have a concept for a single YouTube event that I genuinely believe could be the biggest thing ever done on the platform. Not the most expensive. Not the most produced. The most watched, the most talked about, and the one that keeps paying back long after it's over. It touches everything Beast Industries is building — the core channel, the fintech side, brand expansion, the creator market, and a space in tech nobody has walked into at this scale yet. I don't want the job. I want 20 minutes with Jimmy to see if this is something he'd want to be the one to do — because nobody else can. If you're the wrong door for this I completely understand. But if there's a way to get this in front of him, I think it's worth knowing about. — Craig"
