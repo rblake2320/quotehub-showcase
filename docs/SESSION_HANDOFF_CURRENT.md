@@ -46,7 +46,7 @@ Beast Industries contacts (priority order):
 - rblake2320/quotehub-showcase — Pitch/marketing site with all docs
 
 ### Gary Vee Demo (LOCAL ONLY)
-- Was running at http://192.168.1.72:8892
+- Was running at http://192.168.12.213:8892
 - File: ~/ai-business/garyvee-preview/app.py
 - Restart: `fuser -k 8892/tcp && nohup ~/miniconda3/bin/python ~/ai-business/garyvee-preview/app.py > /tmp/garyvee_preview.log 2>&1 &`
 - 50 quotes, 17 topics, real YouTube thumbnails, email capture modal, topic filters
